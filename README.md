@@ -1,3 +1,8 @@
+# Warning!!!
+
+This repo is not maintained by me, I just wanted some fixed from other smarter people and the base repo is not approving any PR, so I thought I would just do it myself.
+If you have any improvements, please, open a PR for it
+
 # raytraced-audio
 Adds procedural audio effects to Godot like echo, ambient outdoor sounds, and muffle.
 
